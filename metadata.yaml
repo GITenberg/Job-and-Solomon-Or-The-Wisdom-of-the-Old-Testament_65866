@@ -1,0 +1,24 @@
+_repo: Job-and-Solomon-Or-The-Wisdom-of-the-Old-Testament_65866
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cheyne, T. K. (Thomas Kelly)
+    alias: Cheyne, Thomas Kelly
+    birthdate: 1841
+    deathdate: 1915
+    gutenberg_agent_id: '2621'
+    url: http://www.gutenberg.org/2009/agents/2621
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Kelly_Cheyne
+description: ''
+gutenberg_issued: '2021-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65866'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Job and Solomon: Or, The Wisdom of the Old Testament'
+url: http://www.gutenberg.org/ebooks/65866
